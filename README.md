@@ -1,4 +1,4 @@
-### 🔥 install organization level repos
+### 🔥 clone organization level repos
 
 ```bash
 # usage:
